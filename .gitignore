@@ -1,0 +1,18 @@
+# General Project related
+.DS_Store
+temp/
+
+# VS Code IDE Related
+.vscode/
+.history/
+
+# Illuminated Cloud Related
+.idea/
+IlluminatedCloud
+
+# SFDX Related
+.sfdx/
+.sf/
+sfdx-source/untracked/
+.execanon
+

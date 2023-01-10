@@ -1,0 +1,15 @@
+{
+  "orgName": "reference-cmdt-record-force-source-pull-issue",
+  "edition": "Enterprise",
+  "features": [
+    "Communities"
+  ],
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "sfdx-source/unpackaged",
+      "default": true
+    }
+  ],
+  "name": "reference-source-pull-not-getting-digexp-issue",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "56.0"
+}
